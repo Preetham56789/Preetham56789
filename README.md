@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Preetham S Rao
 
-<!--
-**Preetham56789/Preetham56789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 Passionate about Learning & Coding  
+🚀 Currently learning: Web Development & Data Structures  
+📫 Email: preethamsrao1086@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills in Progress
+- **Languages**: C++, Python  
+- **Web**: HTML, CSS, JavaScript  
+- **Tools**: Git, GitHub, VS Code  
+
+---
+
+## 📘 Goals for 2025
+- ✅ Build at least 3 real-world projects  
+- ✅ Create a LinkedIn profile  
+- ✅ Solve 100+ DSA problems  
+- ✅ Contribute to open source  
+
+---
+
+## 📈 GitHub Stats
+
+![Preetham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preetham56789&show_icons=true&theme=default)
+
+---
+
+_“Learning is a journey. I'm just getting started!”_
